@@ -1,0 +1,30 @@
+.container{
+    background-color: rgb(148, 223, 248);
+text-align: center;
+display: flex;
+justify-content: center;
+height: 300px;
+}
+
+.btn{
+    font-size:30px;
+    width: 70px;
+    border-radius: 100px;
+
+}
+.screen{
+    background-color: rgb(236, 236, 253);
+    font-size: 25px;
+border-radius: 100px;
+height: 40px;
+}
+
+.num{
+    background-color: aquamarine;
+}
+.op{
+    background-color: rgb(223, 158, 250);
+}
+.clear{
+    background-color: rgb(255, 73, 73);
+}
